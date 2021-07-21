@@ -1,3 +1,0 @@
-This file was created by NodeJS..!This text appended with nodejsThis file was created by NodeJS..!
-This text appended with nodejsThis file was created by NodeJS..!
-This text appended with nodejs
